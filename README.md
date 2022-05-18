@@ -1,5 +1,5 @@
 # MainframeIBM_REXX_script
-REXX script to create a file, write a string inside and launch a JCL to write this file to a SYSOUT
+REXX script to create a file, write a string in this file and launch a JCL to display the file in a SYSOUT
 
 ## Platform 
 This REXX script has been written in Visual Studio Code in ZOWE extension
