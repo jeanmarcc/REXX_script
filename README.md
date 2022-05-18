@@ -9,7 +9,7 @@ zowe tso issue command "exec 'z11475.source(rexxjcl)'"
 
 wherethe jcl executed in the REXX script is:
 
-//CBL0007J JOB 1,NOTIFY=&SYSUID
+<!-- //CBL0007J JOB 1,NOTIFY=&SYSUID
 //*
 //* this jcl is launched by a REXX script
 //*
@@ -17,7 +17,7 @@ wherethe jcl executed in the REXX script is:
 //SYSPRINT DD DUMMY
 //SYSIN    DD DUMMY
 //SYSUT1   DD DSN=Z11475.MYJOHNM,DISP=SHR  
-//SYSUT2   DD SYSOUT=*
+//SYSUT2   DD SYSOUT=* -->
 
 
 ## Author
