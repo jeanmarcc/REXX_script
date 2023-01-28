@@ -15,6 +15,6 @@ where the jcl executed in the REXX script is:
 
 
 ## Author
-https://github.com/johnmarcc
+https://github.com/jeanmarcc
 
 
